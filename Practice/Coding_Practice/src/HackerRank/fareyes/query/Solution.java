@@ -1,0 +1,1 @@
+package HackerRank.fareyes.query;

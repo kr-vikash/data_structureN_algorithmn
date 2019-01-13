@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d208572-6d54-4067-ab55-a3903c4e4dbc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Coding_Practice/src/test/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding_Practice/src/test/Solution.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Practice$All_Features_in__src.ic" NAME="All Features in: src Coverage Results" MODIFIED="1541296104710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Coding_Practice/src/test/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>put</find>
+      <find>get</find>
+      <find>executor</find>
+      <find>thread</find>
+      <find>threadlocals</find>
+      <find>s3.push</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/amazon/test</dir>
+      <dir>$PROJECT_DIR$/src/HackerEarth</dir>
+      <dir>$PROJECT_DIR$/src/HackerEarth/byjus</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/HackerRank/AbbreviationCheck/Solution.java" />
+        <option value="$PROJECT_DIR$/src/HackerRank/FairCut/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/amazon/test/SongShuffle/SongShuffle.java" />
+        <option value="$PROJECT_DIR$/src/HackerRank/fareyes/query/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/amazon/test/Interviews/NolessThanSum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/amazon/test/Interviews/Main.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/cars24/getX/getNoCountfromarray/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/cars24/getX/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/com/amazon/test/Interviews/sameFirstLastDigit/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Practice/Main.java" />
+        <option value="$PROJECT_DIR$/src/Practice/B2DLL/BinaryConversion.java" />
+        <option value="$PROJECT_DIR$/src/com/amazon/test/coinDenominationNoWays/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/amazon/test/minCoinNo/GFG.java" />
+        <option value="$PROJECT_DIR$/src/HackerRank/Graph/RoadNLibrary/in.txt" />
+        <option value="$PROJECT_DIR$/src/Check.java" />
+        <option value="$PROJECT_DIR$/src/HackerRank/Graph/RoadNLibrary/Solution.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/maxSubArraySum/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/HackerEarth/videoMusicCheck/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/amazon/test/binarySearchTree/BInarySearchTress.java" />
+        <option value="$PROJECT_DIR$/src/com/practice/test/maxLongestSubString/MaxIncSubString.java" />
+        <option value="$PROJECT_DIR$/src/com/practice/test/binarySearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/practice/test/binarySearchOnRotatedArray/BinarySearchOnRotatedArray.java" />
+        <option value="$PROJECT_DIR$/src/com/practice/test/LinkedList.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/maxDiffAncestorChild/Node.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/maxDiffAncestorChild/Solution.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/nearestPlandrome/Solution.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/nearestPlandrome/NativeApproach.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/secloretest/maxSumCoPrime/Solution.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/secloretest/maxSumCoPrime/approach2/TestClass.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/secloretest/maxSumCoPrime/arrayTransform/TestClass.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/nearestPlandrome/bestapproach/NearestPlandrome.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/geHealthCare/plandromicCut/TestClass.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/geHealthCare/string/TestClass.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/geHealthCare/main.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/maxProfit/Solution.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/towerOfHanoi/Solution.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/main.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/interf/Shape.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/interf/Geometric.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/interf/Triangle.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/interf/Circle.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/interf/GeometricShape.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/inciff/q4/TestClass.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/wissen/Q2/TestClass.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/TestClass.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/binarySearchTree/BInarySearchTree.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/checkForLongestSubSequence/LongestSubSequence.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/com/practice/test/distictPairNumber/DistictPairInArr.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/thoughtwork/main.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/HackerEarth/thoughtwork/maggicArray/TestClass.java" />
+        <option value="$PROJECT_DIR$/Coding_Practice/src/test/Solution.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="41" />
+    <option name="y" value="40" />
+    <option name="width" value="1275" />
+    <option name="height" value="652" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding_Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="math&#9;PSI&#9;JAVA://java.lang.Math&#10;threadlocal&#9;FILE&#9;jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/ThreadLocal.java&#10;concu&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentMap&#10;serializa&#9;PSI&#9;JAVA://java.io.Serializable&#10;threadpoo&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;runn&#9;FILE&#9;jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Runnable.java&#10;threa&#9;FILE&#9;jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java&#10;Hash&#9;FILE&#9;jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashMap.java&#10;hash&#9;FILE&#9;jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashSet.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547380657829" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Coding_Practice/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/com/amazon/test/Interviews" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestClass (3)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BInarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.test.binarySearchTree.BInarySearchTree" />
+      <module name="Coding_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.test.binarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Solution" />
+      <module name="Coding_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.wissen.Q2.TestClass" />
+      <module name="Coding_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerEarth.wissen.Q2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerEarth.thoughtwork.maggicArray.TestClass" />
+      <module name="Coding_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerEarth.thoughtwork.maggicArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <module name="Coding_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestClass (1)" />
+      <item itemvalue="Application.BInarySearchTree" />
+      <item itemvalue="Application.TestClass (2)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.TestClass (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClass (3)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.TestClass (2)" />
+        <item itemvalue="Application.BInarySearchTree" />
+        <item itemvalue="Application.TestClass (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d208572-6d54-4067-ab55-a3903c4e4dbc" name="Default" comment="" />
+      <created>1529598354437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529598354437</updated>
+      <workItem from="1529598358922" duration="21752000" />
+      <workItem from="1529688561126" duration="6189000" />
+      <workItem from="1529906658429" duration="63000" />
+      <workItem from="1529991162212" duration="6719000" />
+      <workItem from="1530017382122" duration="2786000" />
+      <workItem from="1530079740952" duration="1807000" />
+      <workItem from="1530129152800" duration="888000" />
+      <workItem from="1530251667612" duration="661000" />
+      <workItem from="1530267007122" duration="1523000" />
+      <workItem from="1530276842321" duration="4986000" />
+      <workItem from="1530322578153" duration="2249000" />
+      <workItem from="1530508965458" duration="1555000" />
+      <workItem from="1530520799094" duration="3134000" />
+      <workItem from="1530532921344" duration="1416000" />
+      <workItem from="1530541401769" duration="95000" />
+      <workItem from="1530595736797" duration="2522000" />
+      <workItem from="1530778709578" duration="2650000" />
+      <workItem from="1530805166947" duration="1618000" />
+      <workItem from="1530855289723" duration="4519000" />
+      <workItem from="1532594986955" duration="1103000" />
+      <workItem from="1532601540745" duration="602000" />
+      <workItem from="1532631197814" duration="2449000" />
+      <workItem from="1532668831577" duration="3733000" />
+      <workItem from="1532943644169" duration="2265000" />
+      <workItem from="1533014830617" duration="2280000" />
+      <workItem from="1533031013245" duration="19241000" />
+      <workItem from="1533287595631" duration="1656000" />
+      <workItem from="1533325262414" duration="3914000" />
+      <workItem from="1533374107499" duration="3240000" />
+      <workItem from="1533452512171" duration="3151000" />
+      <workItem from="1533550486825" duration="609000" />
+      <workItem from="1533632095287" duration="2538000" />
+      <workItem from="1533634811441" duration="50000" />
+      <workItem from="1533636049408" duration="3182000" />
+      <workItem from="1533673969889" duration="8338000" />
+      <workItem from="1533754376491" duration="986000" />
+      <workItem from="1534243522988" duration="2106000" />
+      <workItem from="1534752350482" duration="6179000" />
+      <workItem from="1534834520660" duration="2052000" />
+      <workItem from="1534867475532" duration="1198000" />
+      <workItem from="1534909459168" duration="1857000" />
+      <workItem from="1534929638271" duration="599000" />
+      <workItem from="1534966296539" duration="1785000" />
+      <workItem from="1535094077778" duration="186000" />
+      <workItem from="1535547755559" duration="3609000" />
+      <workItem from="1535635492599" duration="1032000" />
+      <workItem from="1536651004658" duration="3313000" />
+      <workItem from="1536668562805" duration="4103000" />
+      <workItem from="1536809300414" duration="1332000" />
+      <workItem from="1536858402095" duration="1672000" />
+      <workItem from="1536906542752" duration="1008000" />
+      <workItem from="1536918264264" duration="672000" />
+      <workItem from="1536933231722" duration="18110000" />
+      <workItem from="1537122995780" duration="672000" />
+      <workItem from="1537173656633" duration="942000" />
+      <workItem from="1537197923240" duration="3665000" />
+      <workItem from="1537254540715" duration="64000" />
+      <workItem from="1537559189097" duration="10366000" />
+      <workItem from="1538031679474" duration="2547000" />
+      <workItem from="1538643229570" duration="1451000" />
+      <workItem from="1538651734382" duration="8633000" />
+      <workItem from="1538721975343" duration="6413000" />
+      <workItem from="1538762094147" duration="638000" />
+      <workItem from="1538810146363" duration="15822000" />
+      <workItem from="1539155016921" duration="19000" />
+      <workItem from="1540199870074" duration="5358000" />
+      <workItem from="1540465484322" duration="1597000" />
+      <workItem from="1540535614900" duration="375000" />
+      <workItem from="1540560420755" duration="309000" />
+      <workItem from="1540610211257" duration="920000" />
+      <workItem from="1540672908247" duration="10847000" />
+      <workItem from="1540909791710" duration="4155000" />
+      <workItem from="1541139989184" duration="2197000" />
+      <workItem from="1541144595041" duration="2216000" />
+      <workItem from="1541225762078" duration="1302000" />
+      <workItem from="1541261732317" duration="56000" />
+      <workItem from="1541261806387" duration="20000" />
+      <workItem from="1541261862942" duration="1283000" />
+      <workItem from="1541475800899" duration="2572000" />
+      <workItem from="1541658064259" duration="622000" />
+      <workItem from="1541835918322" duration="3757000" />
+      <workItem from="1541852942137" duration="9309000" />
+      <workItem from="1542101969223" duration="5174000" />
+      <workItem from="1542264491424" duration="719000" />
+      <workItem from="1542396559299" duration="4159000" />
+      <workItem from="1542607708134" duration="178000" />
+      <workItem from="1542708717938" duration="1743000" />
+      <workItem from="1542743817539" duration="1245000" />
+      <workItem from="1542859617684" duration="1206000" />
+      <workItem from="1543038008241" duration="15407000" />
+      <workItem from="1543240660510" duration="7065000" />
+      <workItem from="1543415672982" duration="5357000" />
+      <workItem from="1543472701926" duration="5535000" />
+      <workItem from="1543557125777" duration="621000" />
+      <workItem from="1543573187151" duration="8544000" />
+      <workItem from="1543761057919" duration="10359000" />
+      <workItem from="1544246760704" duration="93000" />
+      <workItem from="1544897213896" duration="7212000" />
+      <workItem from="1545157455409" duration="624000" />
+      <workItem from="1545590091324" duration="3378000" />
+      <workItem from="1545651419647" duration="167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__src - 2018.11.04 at 07h 18m 25s.xml">
+      <configuration name="All Features in: src" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="354195000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33425567" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32520324" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4359401" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32445922" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32456142" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32279533" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24980047" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32960895" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32960895" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/LinkedList.java</url>
+          <line>43</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/LinkedList.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/doubally/DouballyLinkList.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/quickSort/QuickSortClass.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/quickSort/QuickSortClass.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/mergerSort/MergeSortClass.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/sx/LevelOrder.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/permutationOfSumGreaterThanEqualToNum/PSGthanEqualToNum.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/coinDenominationNoWays/Solution.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/minimizeCandies/Solution.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/minimizeCandies/Solution.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/minimizeCandies/Solution.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/singllyLinkList.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/Linkedlist/Solution.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/Linkedlist/DoubleLinkedlist.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/newtest/Solution.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/newtest/Solution.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/FourNumberSum/Solution.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/productOfNonoverlappingPalendrome/Solution.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth/newLanguage/TestClass.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth/newLanguage/TestClass.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/minCoinNo/offercheck.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth/newLanguage/TestClass.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth/hecticgame/TestClass.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/FairCut/Solution.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/Graph/RoadNLibrary/Solution.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/Graph/RoadNLibrary/Solution.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/Graph/RoadNLibrary/Solution.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth/maxSubArraySum/TestClass.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth/videoMusicCheck/Main.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth/videoMusicCheck/Main.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerEarth/videoMusicCheck/Main.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/binarySearchTree/BInarySearchTree.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/binarySearchTree/BInarySearchTree.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/test/binarySearchTree/BInarySearchTree.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/maxDiffAncestorChild/Solution.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/nearestPlandrome/NativeApproach.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/secloretest/maxSumCoPrime/approach2/TestClass.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/secloretest/maxSumCoPrime/approach2/TestClass.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/secloretest/maxSumCoPrime/approach2/TestClass.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/secloretest/maxSumCoPrime/arrayTransform/TestClass.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/TestClass.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/geHealthCare/plandromicCut/TestClass.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/geHealthCare/plandromicCut/TestClass.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/geHealthCare/plandromicCut/TestClass.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/maxProfit/Solution.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/towerOfHanoi/Solution.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/towerOfHanoi/Solution.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/inciff/q4/TestClass.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/wissen/Q2/TestClass.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/wissen/Q2/TestClass.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java</url>
+          <line>153</line>
+          <properties field="single_step" class="java.lang.Thread" />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="count" language="JAVA" />
+        <watch expression="n-k-start" language="JAVA" />
+        <watch expression="s3.peek()" language="JAVA" />
+        <watch expression="matrix.get(0).get(0).equals(Character.toString(target_string.charAt(0)))" language="JAVA" />
+        <watch expression="((ArrayList) matrix).size" language="JAVA" />
+        <watch expression="matrix.size()" language="JAVA" />
+        <watch expression="matrix.get(0).size()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>matrix.get(0).size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ArrayList) matrix).size</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix.get(0).get(0).equals(Character.toString(target_string.charAt(0)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Character.toString(target_string.charAt(0))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix.get(0).get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix.get(0).get(0) == Character.toString(target_string.charAt(0))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s3.peek()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>n-k-start</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>count</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/geHealthCare/string/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/geHealthCare/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="656" selection-start-line="656" selection-end-line="656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/towerOfHanoi/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="217" column="36" selection-start-line="217" selection-start-column="36" selection-end-line="217" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6263">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/interf/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/interf/GeometricShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/inciff/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/interf/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/D/P/adaptive/interf/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/inciff/q4/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/wissen/Q2/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/binarySearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/abbreviation/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/binarySearchOnRotatedArray/BinarySearchOnRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/binarySearchTree/BInarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/checkForLongestSubSequence/LongestSubSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/coinDenominationNoWays/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/distictCombination/distictCombination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/distictPairNumber/DistictPairInArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/doubally/DouballyLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/FourNumberSum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/graph/bfs/BFSGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/Interviews/NolessThanSum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/Interviews/sameFirstLastDigit/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/Linkedlist/DoubleLinkedlist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/maxLongestSubString/MaxIncSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/maxDiffAncestorChild/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/maxDiffAncestorChild/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/maxProfit/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/mergerSort/MergeSortClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/minCoinNo/GFG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/geHealthCare/plandromicCut/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-257">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/minimizeCandies/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/nonAdjacent/NonAdjacentSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/permutationOfSumGreaterThanEqualToNum/PSGthanEqualToNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/productOfNonoverlappingPalendrome/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/quickSort/QuickSortClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/SongShuffle/SongShuffle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/sx/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/com/practice/test/threeNumberSumInArray/ThreeNumberSumInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/newtest/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/thoughtwork/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/HackerEarth/thoughtwork/maggicArray/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding_Practice/src/test/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Coding_Practice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
